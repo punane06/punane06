@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-     I am Kadi
+I am Kadi
 ### Front-End developer
 
 📫 How to reach me: http://kadikerner.com/
