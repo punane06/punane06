@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-###     I am Kadi
+     I am Kadi
 ### Front-End developer
+
+📫 How to reach me: http://kadikerner.com/
 
 <!--
 **punane06/punane06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
