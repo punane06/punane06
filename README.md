@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Hi there 👋
 
 I am Kadi
@@ -7,3 +9,4 @@ I am Kadi
 
 📫 How to reach me: http://kadikerner.com/
 
+</div>
