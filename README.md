@@ -9,6 +9,6 @@ I am Kadi
   
   ![](https://komarev.com/ghpvc/?username=punane06&color=lightgrey)
 
-📫 How to reach me: http://kadikerner.com/
+📫 How to reach me: kadikerner@gmail.com
 
 </div>
