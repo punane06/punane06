@@ -1,11 +1,13 @@
 <div align="center">
-<img src="./github.png" alt="banner" />
+
 
 
 ### Hi there 👋
 
 I am Kadi
-### Front-End developer
+
+<img src="./github.png" alt="banner" />
+<br /><br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punane06&layout=compact)](https://github.com/punane06)
   
