@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://www.canva.com/design/DAFH6U2cD9Y/view](https://www.canva.com/design/DAFH6U2cD9Y/view?utm_content=DAFH6U2cD9Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)" alt="cover" />
+<img src="![image](https://user-images.githubusercontent.com/14826757/181934354-e55c5105-ef9a-4917-8ab1-d864acd8772c.png)" alt="cover" />
 
 
 ### Hi there 👋
