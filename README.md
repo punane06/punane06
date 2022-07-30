@@ -1,4 +1,6 @@
 <div align="center">
+<img src="https://www.canva.com/design/DAFH6U2cD9Y/view" alt="cover" />
+
 
 ### Hi there 👋
 
